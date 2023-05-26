@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1044642364414",
+    "project_id": "mock-exam-2934d",
+    "storage_bucket": "mock-exam-2934d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044642364414:android:35e204a29f5ca504ce1eaf",
+        "android_client_info": {
+          "package_name": "com.rangin.hapreparation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044642364414-dfhu6j5t3uea424e65p9mtb3o4hgnsn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7otDn0yG9yWEHeFcwjtJHCbf8cwiTBaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044642364414-dfhu6j5t3uea424e65p9mtb3o4hgnsn5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044642364414-74m90s29g3e5enk3bb3rifu6pashkdti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.apiWithProvider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
